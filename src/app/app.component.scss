@@ -1,0 +1,24 @@
+.mat-card-simples {
+  max-width: 300px;
+  background-color: aliceblue;
+  margin-top: 10px;
+}
+
+.mat-card-form {
+  background-color: rgb(183, 230, 90);
+  max-width: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.mat-form-principal {
+  margin-left: 5px;
+}
+
+.btn-card-bt {
+  margin-bottom: 10px;
+}
